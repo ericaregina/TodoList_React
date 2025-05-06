@@ -33,7 +33,7 @@ npm start
 ```
 http://localhost:3000
 ```
-Execute os testes com:
+5️⃣ Execute os testes com:
 ```
 npm test
 ```
